@@ -5,27 +5,27 @@ import org.springframework.stereotype.Component;
 
 /*
  * A. Create and Annotate the class with @Component and @ConfigurationProperties("limits-service")
- * B. Both setters and getters with proper signature should be there. Else it returns default value
- * EX: For limits-service.maximum key, setMaximum and getMaximum methods should be there
+ * B. Setters with proper signature should be there. Else it doesn't set the value
+ * EX: limits-service.minimum=9  -- setMinimum() method name should be there
  * 
  */
 @Component
 @ConfigurationProperties("limits-service")
 public class PropertiesConfiguration {
-	private int min;
-	private int max;
+	private int minimum;
+	private int maximum;
 	
-	public void setMaximum(int max) {
-		this.max = max;
+	public void setMaximum(int maximum) {
+		this.maximum = maximum;
 	}
 	public void setMinimum(int minimum) {
-		this.min = minimum;
+		this.minimum = minimum;
 	}
 	public int getMinimum() {
-		return min;
+		return minimum;
 	}
 	public int getMaximum() {
-		return max;
+		return maximum;
 	}
 	
 	

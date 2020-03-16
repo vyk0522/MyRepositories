@@ -9,12 +9,12 @@ public class LimitConfiguration {
 	private int minimum;
 	private int maximum;
 	
-	public int getMinimum() {
-		return minimum;
-	}
-
 	public int getMaximum() {
 		return maximum;
+	}
+
+	public int getMinimum() {
+		return minimum;
 	}
 
 	public LimitConfiguration(int minimum, int maximum) {

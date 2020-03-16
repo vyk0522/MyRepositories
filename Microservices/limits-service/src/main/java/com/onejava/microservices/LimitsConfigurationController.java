@@ -11,6 +11,7 @@ public class LimitsConfigurationController {
 	PropertiesConfiguration propertiesConfiguration;
 	
 	// http://localhost:8080/limits
+	
 	@GetMapping("/limits")
 	public LimitConfiguration retrieveLimitsFromConfiguration() {
 		return new LimitConfiguration(propertiesConfiguration.getMinimum(), propertiesConfiguration.getMaximum());
