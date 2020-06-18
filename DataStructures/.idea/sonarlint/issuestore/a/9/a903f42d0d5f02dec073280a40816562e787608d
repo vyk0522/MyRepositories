@@ -1,0 +1,23 @@
+
+U	java:S106G"9Replace this use of System.out or System.err by a logger.(²”Áã8ºÍÏÌ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²”Áã8æ¢ÕÌ.
+Z	java:S106-"9Replace this use of System.out or System.err by a logger.(ƒÍã­ÿÿÿÿÿ8Í¨©É.
+U	java:S106F"9Replace this use of System.out or System.err by a logger.(Á™õæ8¿Ÿ±É.
+Z	java:S106."9Replace this use of System.out or System.err by a logger.(¹Ã»ºûÿÿÿÿ8›Š¸É.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ª¡ªå8ŠœÉ.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(Ó¾…³ıÿÿÿÿ8»ùÀ£.
+U	java:S106%"9Replace this use of System.out or System.err by a logger.(²”Áã8ºÍÏÌ.
+U	java:S106/"9Replace this use of System.out or System.err by a logger.(²”Áã8ºÍÏÌ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ô„«Æ8üŒÒÌ.
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(ª¡ªå8‰ÈŒ¤.
+N	java:S106E"9Replace this use of System.out or System.err by a logger.(†Ç¦Œ
+Z	java:S106+"9Replace this use of System.out or System.err by a logger.(íúşÿÿÿÿ8»ùÀ£.
+n
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(®ÛÎf
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(§ÔË²şÿÿÿÿ8«¤£É.
+ƒ
+java:S1192"fDefine a constant instead of duplicating this literal "-------------------------------------" 5 times.(²”Áã8ºÍÏÌ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼à‚Ï8¡ŞüÍ.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(²”Áã8¡ŞüÍ.
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(Ó¾…³ıÿÿÿÿ8ŠœÉ.
+Z	java:S106""9Replace this use of System.out or System.err by a logger.(íúşÿÿÿÿ8ŠœÉ.
