@@ -2,7 +2,6 @@ package com.onejava.airportmanagement.repository;
 
 import com.onejava.airportmanagement.domain.FlightInformation;
 import com.onejava.airportmanagement.domain.FlightPrinter;
-import com.onejava.airportmanagement.repository.FlightInformationRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
 import org.springframework.core.annotation.Order;
@@ -30,6 +29,7 @@ public class CRUDRepositoryApplicationRunner implements CommandLineRunner {
 
     @Override
     public void run(String... args) {
+
         long count = repository.count();
         FlightPrinter.print("All Flights Count: " + count);
 
@@ -64,6 +64,15 @@ public class CRUDRepositoryApplicationRunner implements CommandLineRunner {
 
         List<FlightInformation> flights = repository.findByMinAircraftNbSeatsAndDest(200, "Copenhagen");
         FlightPrinter.print(flights, "Flights gte minimum number of seats: 200 and destination:  Copenhagen ");
+
+        List<FlightInformation> aircraftByModelAndSeats = repository.findByAircraftModelInAndAircraftNbSeatsGreaterThan( Arrays.asList("A319"), 150);
+        aircraftByModelAndSeats.stream().forEach(e -> System.out.println(e.getAircraft().getModel() + " " + e.getAircraft().getNbSeats() ));
+
+        FlightInformation firstFlight = repository.findFirstByType("Internal");
+        FlightPrinter.print(Arrays.asList(firstFlight));
+
+        List<FlightInformation> top2Flights = repository.findTop2ByIsDelayedTrueAndDepartureCity("Madrid");
+        FlightPrinter.print(top2Flights);
     }
 
     private void updateFlight(String id, int duration) {

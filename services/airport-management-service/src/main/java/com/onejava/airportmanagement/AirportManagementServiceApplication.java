@@ -49,7 +49,7 @@ public class AirportManagementServiceApplication {
 
 	/*
 	For Data migration
-	 */
+	 *//*
 	@Bean
 	public Mongobee mongobee() {
 		String mongoUri = environment.getProperty("spring.data.mongodb.uri");
@@ -61,5 +61,5 @@ public class AirportManagementServiceApplication {
 		runner.setLockCollectionName("migrations_lock");
 		runner.setMongoTemplate(mongoTemplate);
 		return runner;
-	}
+	}*/
 }

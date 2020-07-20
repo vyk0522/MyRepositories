@@ -105,7 +105,7 @@ public class DatabaseRepositorySeederRunner implements CommandLineRunner {
         flightFive.setDepartureDate(LocalDate.of(2019, 6, 10));
         flightFive.setType(FlightType.Internal);
         flightFive.setDurationMin(400);
-        flightFive.setAircraft(new Aircraft("A319", 150));
+        flightFive.setAircraft(new Aircraft("A319", 154));
         flightTwo.setDescription("Flight from LA to Washington via Paris");
 
         FlightInformation flightSix = new FlightInformation();
@@ -117,6 +117,8 @@ public class DatabaseRepositorySeederRunner implements CommandLineRunner {
         flightSix.setType(FlightType.International);
         flightSix.setDurationMin(110);
         flightSix.setAircraft(new Aircraft("A321 Neo", 200));
+
+
 
         // Seed
         return Arrays.asList(flightOne, flightTwo, flightThree, flightFour, flightFive, flightSix);

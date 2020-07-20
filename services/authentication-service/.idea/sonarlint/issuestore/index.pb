@@ -1,0 +1,19 @@
+
+Z
+*src/com/onejava/AuthenticationFactory.java,0\0\0099994b7f5844ce43a59595ae00ba69653dc3f8
+S
+#src/com/onejava/Authentication.java,1\a\1a77f5d911454647a9cab2cb80af0ecd5c5a30e0
+W
+'src/com/onejava/LoginAuthentiation.java,e\f\efb2aeabe2e50e0dd645f27ee1e7bce1442758f4
+O
+src/com/onejava/MethodType.java,7\d\7df36dc331f73580f33dff2faa7f1259db728578
+X
+(src/com/onejava/TokenAuthentication.java,2\2\22dc3cc4de7ba1350b807a24250854bc6c43176c
+P
+ src/com/onejava/UserDetails.java,2\4\245033e892c6510ec920f3dc4fad31cfa12fb2dd
+[
++src/com/onejava/UserAuthenticationImpl.java,5\7\57400b56abe332fb4a13ffc607b2e55bc2e23f76
+W
+'src/com/onejava/UserAuthentication.java,f\0\f0a7f495d245cb52fe8836d7ef120fb0b41a1cd3
+G
+src/com/org/client.java,c\f\cf97fb5dde76e84c4c8f699387b2cef6ed5010bd

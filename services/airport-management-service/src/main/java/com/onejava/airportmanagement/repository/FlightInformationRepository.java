@@ -16,6 +16,10 @@ public interface FlightInformationRepository extends MongoRepository<FlightInfor
     List<FlightInformation> findByIsDelayedTrueAndDepartureCity(String dep);
     List<FlightInformation> findByIsDelayedFalseOrDepartureCityLike(String wildCard);
 
+    FlightInformation findFirstByType(String type);
+    List<FlightInformation> findTop2ByIsDelayedTrueAndDepartureCity(String dep);
+    List<FlightInformation> findByAircraftModelInAndAircraftNbSeatsGreaterThan(List<String> model, int value);
+
     @Query("{'aircraft.nbSeats': {$gte: ?0}, destination:?1 }")
     List<FlightInformation> findByMinAircraftNbSeatsAndDest(int i, String destination);
 }
