@@ -1,6 +1,6 @@
 
 U	java:S106"9Replace this use of System.out or System.err by a logger.(½ó‡Ì8ÄİÌ².
-S
-java:S1751"6Remove this "return" statement or make it conditional.(¥¾¬ÿ8½Ì¤Ì².
 €
 java:S1488"cImmediately return this expression instead of assigning it to the temporary variable "totalResult".(üĞ£™8ÌÀ”Ì².
+S
+java:S1751"6Remove this "return" statement or make it conditional.(¥¾¬ÿ8½Ì¤Ì².

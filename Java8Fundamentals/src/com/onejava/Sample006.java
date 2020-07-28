@@ -99,7 +99,7 @@ enum Gender {
     MALE, FEMALE
 }
 
-class Person {
+class Person<X> {
     private String name;
     private Gender gender;
     private int age;
@@ -126,4 +126,10 @@ class Person {
     public String toString() {
         return name + age;
     }
+}
+
+
+class Fruit<Y>{
+
+
 }

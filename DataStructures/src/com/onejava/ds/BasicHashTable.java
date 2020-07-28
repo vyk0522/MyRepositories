@@ -21,6 +21,10 @@ public class BasicHashTable<X, Y> {
         data[hash] = new BasicEntry<>(key, value);
     }
 
+    public int size(){
+        return size;
+    }
+
     /*
     1. To calculate hash which is required to store and retrieve objects.
     2. Before storing an object, calculate its hash and store at that hash. This helps to retrieve object at constant time

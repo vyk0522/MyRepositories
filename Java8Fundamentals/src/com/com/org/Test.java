@@ -11,7 +11,6 @@ import static java.util.stream.Collectors.*;
 public class Test {
     public static void main(String[] args) {
         Map<String, Integer> map = new HashMap<>();
-
         List<String> names = Arrays.asList("aa", "bb", "aa", "cc", "bb", "aa", "dd", "bb");
         getFrequency(map, names);
 

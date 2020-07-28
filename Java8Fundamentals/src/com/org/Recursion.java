@@ -5,9 +5,6 @@ public class Recursion {
         System.out.println(calculate(5));
         System.out.println((int)calculateBurnableCandles(3,2));
         System.out.println((int)calculateBurnableCandles(5,5));
-
-        System.out.println(calculateCandles(3,2));
-        System.out.println(calculateCandles(5,5));
     }
 
     public static int calculate(int n){
@@ -25,17 +22,5 @@ public class Recursion {
         return burnable + unUsed + calculateBurnableCandles(nextBurnable, residueNo);
     }
 
-    public static int calculateCandles(int numbers, int residue){
-        int c = numbers / residue;
-        int r = numbers % residue;
-        int p = c + r;
-        int h = 0;
-        if((p/residue)>= residue )
-        {
-            h=p/residue;
-            h=h/residue;
-        }
-        c=c+(p/residue)+h;
-        return c;
-    }
+
 }

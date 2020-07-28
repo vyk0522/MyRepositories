@@ -17,7 +17,7 @@ public class HomeController {
     @Value("${common.application.property1}")
     private String commonProp;
 
-    // http://localhost:8080/limits
+    // http://localhost:8084/limits
     @GetMapping("/limits")
     public LimitConfiguration retrieveLimitsFromConfiguration() {
         LimitConfiguration limitConfiguration = new LimitConfiguration(propertiesConfiguration.getMinimum(), propertiesConfiguration.getMaximum());

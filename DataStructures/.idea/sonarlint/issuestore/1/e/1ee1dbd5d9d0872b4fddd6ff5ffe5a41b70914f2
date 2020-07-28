@@ -1,0 +1,16 @@
+
+X	java:S125"<This block of commented-out lines of code should be removed.(ˆÃªõ8ÑèÀš¹.
+S	java:S106D"9Replace this use of System.out or System.err by a logger.(âô†âüÿÿÿÿ
+o
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(»¶ÔÀ
+]
+java:S3973r"GUse indentation to denote the code conditionally executed by this "if".(¸ÂÌá
+N	java:S106"9Replace this use of System.out or System.err by a logger.(²à™¢
+]
+java:S3973w"GUse indentation to denote the code conditionally executed by this "if".(¥“ÊÙ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(âô†âüÿÿÿÿ
+S	java:S106?"9Replace this use of System.out or System.err by a logger.(âô†âüÿÿÿÿ
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(âô†âüÿÿÿÿ
+S	java:S106N"9Replace this use of System.out or System.err by a logger.(âô†âüÿÿÿÿ
+N	java:S106""9Replace this use of System.out or System.err by a logger.(Ä¿Ú
+]	java:S125"<This block of commented-out lines of code should be removed.(Í‚­Ùøÿÿÿÿ8™•¿š¹.
