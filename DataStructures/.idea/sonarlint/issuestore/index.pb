@@ -9,8 +9,6 @@ M
 src/com/onejava/ds/Queue.java,1\9\19c18ba41a18af378be043a5b73b56a352dadb48
 R
 "src/com/onejava/ds/BasicQueue.java,a\2\a286ec6796bd4acc8e3fb38c9274eef439611767
-N
-src/com/onejava/test/Test.java,8\f\8f9175c5cff58408a5c50b506e64db602082a79e
 \
 ,src/com/onejava/test/TrainLinkedListApp.java,a\9\a903f42d0d5f02dec073280a40816562e787608d
 W
@@ -49,3 +47,5 @@ b
 0src/com/onejava/test/MotorcycleOilChangeApp.java,f\c\fc69e0aab4970c1b47a53e7323e075a0d8e1db4d
 Y
 )src/com/onejava/test/SnowbirdLiftApp.java,1\e\1ee1dbd5d9d0872b4fddd6ff5ffe5a41b70914f2
+d
+4src/com/onejava/problems/Sample007_CandleHeight.java,8\7\87af2c62a6022874b2aebf30d8156b0459a75852

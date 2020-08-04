@@ -8,6 +8,7 @@ public class ContactManagerApp {
     public static void main(String[] args) {
         ContactManagerApp app = new ContactManagerApp();
         app.loadContacts();
+        //app.loadAContact();
 
         //See if we have any of the following contacts
         app.searchContacts();
@@ -15,6 +16,12 @@ public class ContactManagerApp {
         //delete some contacts
         app.cleanupContacts();
     }
+
+    public void loadAContact(){
+        contacts.add(new Contact("Fay", "Moro", "123-123-4556"));
+        System.out.println("Loaded " + contacts.size() + " contacts");
+    }
+
 
     public void loadContacts() {
         contacts.add(new Contact("Abe", "Lincoln", "123-555-5555"));
@@ -58,6 +65,7 @@ public class ContactManagerApp {
 
     public void cleanupContacts() {
         // we just need to remove by last name since that's all we check in the comparable
+        contacts.delete(new Contact("Fay", "Moro", null)); // Delete only one node
         contacts.delete(new Contact("Pei", "Rogan", null)); //delete a leaf node
         contacts.delete(new Contact("Porsche", "Gadsden", null)); //delete a node with a right node only
         contacts.delete(new Contact("Annetta", "Coale", null)); //delete a node with a left node only

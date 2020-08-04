@@ -72,8 +72,10 @@ public class BinaryTree<X extends Comparable<X>> {
 
     private void unLink(Node currentNode, Node newNode){
         if(currentNode == root){
-            newNode.setLeft(currentNode.getLeft());
-            newNode.setRight(currentNode.getRight());
+            if (size > 1) {
+                newNode.setLeft(currentNode.getLeft());
+                newNode.setRight(currentNode.getRight());
+            }
             root = newNode;
         }
         else if(currentNode.getParent().getLeft() == currentNode){

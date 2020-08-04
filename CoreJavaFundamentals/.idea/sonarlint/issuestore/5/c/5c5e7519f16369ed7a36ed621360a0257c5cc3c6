@@ -1,0 +1,10 @@
+
+Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ρ—Έ½ϊÿÿÿÿ8…ÿτ§».
+J	java:S108(")Either remove or fill this block of code.(©¥–άψÿÿÿÿ8…ÿτ§».
+m
+java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(Ν–Κ8²Ώφ§».
+J	java:S1088")Either remove or fill this block of code.(©¥–άψÿÿÿÿ8…ÿτ§».
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ζπ²8…ÿτ§».
+J
+java:S1144".Remove this unused private "writeFile" method.(Ε£¨8…ÿτ§».
+J	java:S108")Either remove or fill this block of code.(©¥–άψÿÿÿÿ8…ÿτ§».

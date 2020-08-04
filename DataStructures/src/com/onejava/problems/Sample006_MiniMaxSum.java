@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Sample006_MiniMaxSum {
     public static void main(String[] args) {
-        int[] a = {1,3,5,7,9};
+        int[] a = {11,3,11,7,9,11};
         miniMaxSum(a);
         miniMaxSum2(a);
     }
@@ -12,6 +12,7 @@ public class Sample006_MiniMaxSum {
     private static void miniMaxSum(int[] arr) {
         Arrays.sort(arr);
         int max = Arrays.stream(arr).skip(1).sum();
+        // long max = Arrays.stream(arr).asLongStream().skip(1).sum();
         int min = Arrays.stream(arr).limit(4).sum();
         System.out.println(min + " " + max);
     }

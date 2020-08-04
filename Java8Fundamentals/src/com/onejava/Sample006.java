@@ -60,6 +60,8 @@ public class Sample006 {
         Map<String, List<Person>> groupByNames = people.stream().collect(groupingBy(Person::getName));
         System.out.println("Map of name and all the people with that name:");
         System.out.println(groupByNames);
+        List<Person> uniquePerson = people.stream().collect(groupingBy(Person::getName)).values().stream().map(e -> e.get(0)).collect(toList());
+        System.out.println(uniquePerson);
         System.out.println("------------------------");
 
         // create a map where their name is key and value is list of age of all the people with that name
@@ -78,6 +80,10 @@ public class Sample006 {
         Map<Boolean, List<Person>> collect3 = people.stream().collect(partitioningBy(person -> person.getAge() >= 21));
         System.out.println("Partition of people satisfying the condition and not satisfying the condition:");
         System.out.println(collect3);
+
+
+
+
 
     }
     public static List<Person> createPeople(){

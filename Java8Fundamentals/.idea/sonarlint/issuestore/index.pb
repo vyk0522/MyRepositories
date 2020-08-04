@@ -37,3 +37,9 @@ I
 src/com/com/org/Test.java,f\a\fad47d66923862b71bc778a84c8464b80b8c4502
 N
 src/com/onejava/util/Test.java,f\a\fa508099c5f5259ff31f6050f5630a6aa78adc23
+G
+src/com/org/Random.java,6\b\6b8fde56eb247e1bae1c7eb895e002f57d752f69
+M
+src/com/com/org/EnumTest.java,8\4\84ce8873cbd7dfd0c6b10ec8a307bd447114c4cd
+L
+src/com/com/org/Manager.java,8\9\890f43549b6b365ef42be3ba3ac0ea9d5bd037e9
