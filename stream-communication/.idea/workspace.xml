@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7871436-1266-410a-b69b-3880131e4eb6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/2/f/2fa1589b7248c9778d41e068e3c206c2d6f49aea" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/2/f/2fa1589b7248c9778d41e068e3c206c2d6f49aea" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/3/1/31da2f9cfa8ce68d34e32c8a8d77279cb85d5c4f" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/3/1/31da2f9cfa8ce68d34e32c8a8d77279cb85d5c4f" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/5/c/5c5e7519f16369ed7a36ed621360a0257c5cc3c6" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/5/c/5c5e7519f16369ed7a36ed621360a0257c5cc3c6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/e/a/eaadd3f3c3ba3d7f9a3f2e820ef53813c287c01e" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/e/a/eaadd3f3c3ba3d7f9a3f2e820ef53813c287c01e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/e/b/ebaf0520eca939751be3f9db6d1ba4eeed504dd2" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/e/b/ebaf0520eca939751be3f9db6d1ba4eeed504dd2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/out/production/CoreJavaFundamentals/com/onejava/nio/Sample001.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/out/production/CoreJavaFundamentals/com/onejava/nio/Sample001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/out/production/CoreJavaFundamentals/com/onejava/nio/files/write.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/out/production/CoreJavaFundamentals/com/onejava/nio/files/write.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/out/production/CoreJavaFundamentals/com/onejava/threads/helper/BankAccount.class" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/out/production/CoreJavaFundamentals/com/onejava/threads/helper/BankAccount.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/src/com/onejava/nio/Sample001.java" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/src/com/onejava/nio/Sample001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CoreJavaFundamentals/src/com/onejava/nio/files/write.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../CoreJavaFundamentals/src/com/onejava/nio/files/write.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/0/2/02b84e126f6e0f7a38b8873c4fae988ebf904952" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/0/2/02b84e126f6e0f7a38b8873c4fae988ebf904952" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/0/4/04d319762e3fd7630f037db2c5713dc7369e5253" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/0/4/04d319762e3fd7630f037db2c5713dc7369e5253" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/2/8/28dfc98d057e039cebeceedfe70a6af3af77a082" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/2/8/28dfc98d057e039cebeceedfe70a6af3af77a082" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/3/4/344f22395512ae8259e797c92c06b2768a201a88" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/3/4/344f22395512ae8259e797c92c06b2768a201a88" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/5/5/551bed327b5609ff8301447fddfe00ce564546b2" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/5/5/551bed327b5609ff8301447fddfe00ce564546b2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/7/4/7487e72a1bfe8a778d1eb19f573683195a750360" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/7/4/7487e72a1bfe8a778d1eb19f573683195a750360" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/7/c/7ce3b35f617ce5415cc60caf55366f3eb2558071" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/7/c/7ce3b35f617ce5415cc60caf55366f3eb2558071" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/8/7/87af2c62a6022874b2aebf30d8156b0459a75852" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/8/7/87af2c62a6022874b2aebf30d8156b0459a75852" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/a/1/a1d138e546bbee0594ae51378ed91c867e2467ec" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/a/1/a1d138e546bbee0594ae51378ed91c867e2467ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/a/a/aace014e54d3e2e4f7c911485ed507b55b33da00" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/a/a/aace014e54d3e2e4f7c911485ed507b55b33da00" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/a/e/aeb34596f5752defff711d1455b847c8f8ce10fb" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/a/e/aeb34596f5752defff711d1455b847c8f8ce10fb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/out/production/DataStructures/com/onejava/problems/Sample002_SumOfDigits.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/out/production/DataStructures/com/onejava/problems/Sample002_SumOfDigits.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/out/production/DataStructures/com/onejava/problems/Sample003_Frequency.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/out/production/DataStructures/com/onejava/problems/Sample003_Frequency.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/out/production/DataStructures/com/onejava/problems/Sample007_CandleHeight.class" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/out/production/DataStructures/com/onejava/problems/Sample007_CandleHeight.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/src/com/onejava/problems/Sample002_SumOfDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/src/com/onejava/problems/Sample002_SumOfDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/src/com/onejava/problems/Sample003_Frequency.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/src/com/onejava/problems/Sample003_Frequency.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../DataStructures/src/com/onejava/problems/Sample007_CandleHeight.java" beforeDir="false" afterPath="$PROJECT_DIR$/../DataStructures/src/com/onejava/problems/Sample007_CandleHeight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/1/f/1ffb437503182b0c085499834fbfe4222779e92e" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/1/f/1ffb437503182b0c085499834fbfe4222779e92e" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/2/a/2a971bef27f49aed0b5c89dc0a96fd4bb62038ec" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/2/a/2a971bef27f49aed0b5c89dc0a96fd4bb62038ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/6/b/6bd0d7c45a15da8f9e4f3d270675634a602dae71" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/6/b/6bd0d7c45a15da8f9e4f3d270675634a602dae71" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/8/4/84ce8873cbd7dfd0c6b10ec8a307bd447114c4cd" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/8/4/84ce8873cbd7dfd0c6b10ec8a307bd447114c4cd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/8/9/890f43549b6b365ef42be3ba3ac0ea9d5bd037e9" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/8/9/890f43549b6b365ef42be3ba3ac0ea9d5bd037e9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/f/a/fad47d66923862b71bc778a84c8464b80b8c4502" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/f/a/fad47d66923862b71bc778a84c8464b80b8c4502" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/out/production/Java8Fundamentals/com/com/org/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/out/production/Java8Fundamentals/com/com/org/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/out/production/Java8Fundamentals/com/org/Test1.class" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/out/production/Java8Fundamentals/com/org/Test1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/src/com/com/org/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/src/com/com/org/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Java8Fundamentals/src/com/org/Test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Java8Fundamentals/src/com/org/Test1.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1gDdPATNvSV71AhTAeQlOtRVaVw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7871436-1266-410a-b69b-3880131e4eb6" name="Default Changelist" comment="" />
+      <created>1597653069441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597653069441</updated>
+    </task>
+    <servers />
+  </component>
+</project>

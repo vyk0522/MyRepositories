@@ -1,3 +1,9 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8¼Ë¡Ø¸.
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³ÕŸÈ
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³ÕŸÈ
+M
+java:S1481	"+Remove this unused "result" local variable.(Îõ¿’ûÿÿÿÿ8¤ÚùÁ¾.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(‹ÛÀ¸ûÿÿÿÿ8×ãèÁ¾.
+X	java:S125
+"<This block of commented-out lines of code should be removed.(œ˜Í€8¤ÚùÁ¾.
+\
+java:S1854	":Remove this useless assignment to local variable "result".(Îõ¿’ûÿÿÿÿ8¤ÚùÁ¾.

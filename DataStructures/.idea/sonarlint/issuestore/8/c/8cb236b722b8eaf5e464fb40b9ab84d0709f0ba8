@@ -1,0 +1,7 @@
+
+9
+java:S1116!"Remove this empty statement.(ÇŒš¸8¯µê¾.
+X	java:S125"<This block of commented-out lines of code should be removed.(Í˜–¼8ê‰¾ê¾.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¬†“»
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ö®áÿÿÿÿÿ8’İ´ê¾.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(ÇŒš¸8¯µê¾.

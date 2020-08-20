@@ -1,11 +1,11 @@
 
 Z	java:S106>"9Replace this use of System.out or System.err by a logger.(ÆÀ¼÷øÿÿÿÿ8‰™š¹.
-U	java:S1069"9Replace this use of System.out or System.err by a logger.(†õ¶8‰™š¹.
-v
-java:S1210l"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ó¶ç¥8‰™š¹.
+X	java:S125"<This block of commented-out lines of code should be removed.(‘Ş¤Ú8Ëù¨¹.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(ıİ–û8‰™š¹.
 i
 java:S1192"MDefine a constant instead of duplicating this literal "123-123-4567" 3 times.( Ÿ§[8‰™š¹.
-U	java:S106?"9Replace this use of System.out or System.err by a logger.(ıİ–û8‰™š¹.
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(†õ¶8‰™š¹.
 U	java:S106J"9Replace this use of System.out or System.err by a logger.(à‚ò…8‰™š¹.
-X	java:S125"<This block of commented-out lines of code should be removed.(‘Ş¤Ú8Ëù¨¹.
+v
+java:S1210l"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(ó¶ç¥8‰™š¹.
 U	java:S106"9Replace this use of System.out or System.err by a logger.(†õ¶8‘³ë§¹.

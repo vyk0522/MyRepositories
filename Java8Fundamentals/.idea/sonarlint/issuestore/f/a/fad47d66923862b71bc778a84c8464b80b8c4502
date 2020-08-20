@@ -1,7 +1,12 @@
 
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¸¨ƒ¨8“ËÒ¯¿.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ø÷¬Òûÿÿÿÿ8¥îÉ¯¿.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8¥îÉ¯¿.
 N
-java:S1144"1Remove this unused private "getFrequency" method.(¤²¼ü8éŒ¸ó¹.
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(µˆœÑ8ôÜÄ†¶.
-]	java:S125"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ8éŒ¸ó¹.
-W
-java:S1118":Add a private constructor to hide the implicit public one.(Óµ¨œ8éŒ¸ó¹.
+java:S1144*"1Remove this unused private "getFrequency" method.(¤²¼ü8éŒ¸ó¹.
+]	java:S125"<This block of commented-out lines of code should be removed.(õ–ôÄùÿÿÿÿ8éŒ¸ó¹.
+L
+java:S1611"/Remove the parentheses around the "n" parameter(Öå‹¹8ëëÎ¯¿.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(µˆœÑ8ôÜÄ†¶.
+Q
+java:S1611"/Remove the parentheses around the "n" parameter(ø÷¬Òûÿÿÿÿ8¥îÉ¯¿.

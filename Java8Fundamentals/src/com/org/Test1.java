@@ -17,14 +17,18 @@ public class Test1 {
 
         System.out.println(getTotalCandlesBurnt(10,2,5));
         System.out.println(getTotalCandlesBurnt(6,2,2));
+
     }
 
     public static List<Integer> oddNumbers(int l, int r) {
         ArrayList<Integer> nums = new ArrayList<>();
-        IntStream.rangeClosed(l, r).filter(e -> e % 2 != 0).forEach(e -> nums.add(e));
+        IntStream.rangeClosed(l, r).filter(e -> e % 2 != 0).sum();
+        System.out.println();
         return nums;
 
     }
+
+
 
     public static int getTotalCandlesBurnt(int amount, int costOfCandle, int noOfResidueCandles){
         int total = amount / costOfCandle;

@@ -1,93 +1,93 @@
 
-Q
-java:S37405"/Provide the parametrized type for this generic.(¢Ñãàüÿÿÿÿ8õ²¢Ù·.
+>
+java:S2326Š"Y is not used in the class.(«Šñòúÿÿÿÿ8ªË£Ù·.
+U	java:S106E"9Replace this use of System.out or System.err by a logger.(ãœÅ„8Ê²ú­¶.
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(à‚êÆ8Œ«‡Ò¶.
+I
+java:S1612-",Replace this lambda with a method reference.(Ñò÷…8ê‰¶.
+N
+java:S1612/",Replace this lambda with a method reference.(¢ˆ‚Èúÿÿÿÿ8¿•„­¶.
+Z	java:S106*"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8Ì£±­¶.
+U	java:S106@"9Replace this use of System.out or System.err by a logger.(Ú„—ª8åÅíô¹.
+U	java:S1060"9Replace this use of System.out or System.err by a logger.(ŒÄ‘8«³¶.
+Z	java:S106J"9Replace this use of System.out or System.err by a logger.(É™Êùÿÿÿÿ8Ü³–®¶.
+U	java:S106R"9Replace this use of System.out or System.err by a logger.(‰‚‡Ô8Î¡ãÑ¶.
 L
-java:S3740\"/Provide the parametrized type for this generic.(Å§éª8õ²¢Ù·.
-U	java:S1066"9Replace this use of System.out or System.err by a logger.(òá¸ı8ñ·ñ­¶.
-Z	java:S1061"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8¹¹±­¶.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8ïœ«¥¶.
+java:S3740_"/Provide the parametrized type for this generic.(÷¤¼¿8õ²¢Ù·.
+U	java:S106!"9Replace this use of System.out or System.err by a logger.(¦¨¹8•ÁÆ¥¶.
+U	java:S106)"9Replace this use of System.out or System.err by a logger.(¿ãª”8›£™¶.
+I
+java:S1612",Replace this lambda with a method reference.(ßÅÈ8Ü±±¥¶.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ8µ›¤¥¶.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ8šô±¥¶.
+Z	java:S106$"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8•ÁÆ¥¶.
 =
 java:S2326l"X is not used in the class.(ÿ‹†ôúÿÿÿÿ8õ²¢Ù·.
 Q
-java:S3740?"/Provide the parametrized type for this generic.(œ¯ ­ûÿÿÿÿ8åÅíô¹.
-I
-java:S1612-",Replace this lambda with a method reference.(Ñò÷…8ê‰¶.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÄ€Åıÿÿÿÿ8ÅÁº¥¶.
-L
-java:S3740<"/Provide the parametrized type for this generic.(˜§½„8õ²¢Ù·.
-U	java:S106)"9Replace this use of System.out or System.err by a logger.(¿ãª”8›£™¶.
-Q
 java:S3740Y"/Provide the parametrized type for this generic.(Ê¸É¬øÿÿÿÿ8õ²¢Ù·.
-N
-java:S1612",Replace this lambda with a method reference.(“÷Ò¢üÿÿÿÿ8©ƒë¥¶.
-Z	java:S106A"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8¢õ­¶.
-{
-java:S1192"YDefine a constant instead of duplicating this literal "------------------------" 8 times.(éç¬ùÿÿÿÿ8ÅÁº¥¶.
-U	java:S106E"9Replace this use of System.out or System.err by a logger.(ãœÅ„8Ê²ú­¶.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ8Œ¬ë¥¶.
 I
 java:S1612.",Replace this lambda with a method reference.(Š¢‹å8Ü›²¶.
-U	java:S106>"9Replace this use of System.out or System.err by a logger.(ª†¸8ÔïÜ¶.
-U	java:S106N"9Replace this use of System.out or System.err by a logger.(©šŒ•8¬¦›®¶.
-U	java:S106Q"9Replace this use of System.out or System.err by a logger.(à‚êÆ8Œ«‡Ò¶.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8‚Ù¿¬¶.
 L
-java:S3740_"/Provide the parametrized type for this generic.(÷¤¼¿8õ²¢Ù·.
+java:S3740\"/Provide the parametrized type for this generic.(Å§éª8õ²¢Ù·.
+e
+java:S2094Š"BRemove this empty class, write its code or make it an "interface".(«Šñòúÿÿÿÿ8ªË£Ù·.
+L
+java:S3740^"/Provide the parametrized type for this generic.(ú˜¯õ8õ²¢Ù·.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ8Œ¬ë¥¶.
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÄÅ‚ì8ˆûÆ¬¶.
 T	java:S106="9Replace this use of System.out or System.err by a logger.(·©ø8Šíô­¶.
 L
 java:S3740b"/Provide the parametrized type for this generic.(…”Ş8õ²¢Ù·.
 L
-java:S3740]"/Provide the parametrized type for this generic.(‡¿àï8õ²¢Ù·.
-I
-java:S1612"",Replace this lambda with a method reference.(ŠÛ÷ß8úÄ¬¶.
+java:S3740<"/Provide the parametrized type for this generic.(˜§½„8õ²¢Ù·.
+U	java:S106>"9Replace this use of System.out or System.err by a logger.(ª†¸8ÔïÜ¶.
 N
-java:S1612",Replace this lambda with a method reference.(»â¡°şÿÿÿÿ8¼Û¸¥¶.
-I
-java:S1612'",Replace this lambda with a method reference.(ñ¼ã±8ğíş¶.
-I
-java:S1612",Replace this lambda with a method reference.(ßÅÈ8Ü±±¥¶.
-U	java:S106 "9Replace this use of System.out or System.err by a logger.(şÒ†Ç8•ÁÆ¥¶.
-Z	java:S1067"9Replace this use of System.out or System.err by a logger.(’òŸ´şÿÿÿÿ8·ŒÇ¶.
-Z	java:S106J"9Replace this use of System.out or System.err by a logger.(É™Êùÿÿÿÿ8Ü³–®¶.
-U	java:S106("9Replace this use of System.out or System.err by a logger.(†ª½8©È¯­¶.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ8µ›¤¥¶.
-I
-java:S1612",Replace this lambda with a method reference.(Â§Â‚8ıÄ¥¶.
-L
-java:S3740^"/Provide the parametrized type for this generic.(ú˜¯õ8õ²¢Ù·.
-Q
-java:S3740`"/Provide the parametrized type for this generic.(ş—ÿ½ÿÿÿÿÿ8õ²¢Ù·.
-U	java:S106@"9Replace this use of System.out or System.err by a logger.(Ú„—ª8åÅíô¹.
-e
-java:S2094Š"BRemove this empty class, write its code or make it an "interface".(«Šñòúÿÿÿÿ8ªË£Ù·.
+java:S1612",Replace this lambda with a method reference.(“÷Ò¢üÿÿÿÿ8©ƒë¥¶.
+T	java:S106M"9Replace this use of System.out or System.err by a logger.(­¨šW8ˆªª®¶.
+Z	java:S106A"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8¢õ­¶.
 Z	java:S1069"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8Úûò­¶.
-U	java:S1060"9Replace this use of System.out or System.err by a logger.(ŒÄ‘8«³¶.
-Z	java:S106F"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8—ğû­¶.
-U	java:S106!"9Replace this use of System.out or System.err by a logger.(¦¨¹8•ÁÆ¥¶.
-L
-java:S3740a"/Provide the parametrized type for this generic.(Á­«ª8õ²¢Ù·.
-U	java:S106#"9Replace this use of System.out or System.err by a logger.(ÄÅ‚ì8ˆûÆ¬¶.
-Z	java:S106$"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8•ÁÆ¥¶.
-U	java:S106"9Replace this use of System.out or System.err by a logger.( øò°8í‰«¥¶.
+Q
+java:S37405"/Provide the parametrized type for this generic.(¢Ñãàüÿÿÿÿ8õ²¢Ù·.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8šô±¥¶.
+U	java:S106N"9Replace this use of System.out or System.err by a logger.(©šŒ•8¬¦›®¶.
+{
+java:S1192"YDefine a constant instead of duplicating this literal "------------------------" 8 times.(éç¬ùÿÿÿÿ8ÅÁº¥¶.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8ïœ«¥¶.
 Z	java:S1068"9Replace this use of System.out or System.err by a logger.(ãÕ§Œÿÿÿÿÿ8¿„°¶.
->
-java:S2326Š"Y is not used in the class.(«Šñòúÿÿÿÿ8ªË£Ù·.
-U	java:S106R"9Replace this use of System.out or System.err by a logger.(‰‚‡Ô8Î¡ãÑ¶.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÄ€Åıÿÿÿÿ8ÅÁº¥¶.
 L
 java:S3740
 "/Provide the parametrized type for this generic.(é˜½×8õ²¢Ù·.
 L
-java:S3740["/Provide the parametrized type for this generic.(Ã–ã¶8õ²¢Ù·.
-Z	java:S106*"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8Ì£±­¶.
-U	java:S106I"9Replace this use of System.out or System.err by a logger.(ô…œ€8—ª®¶.
+java:S3740]"/Provide the parametrized type for this generic.(‡¿àï8õ²¢Ù·.
+I
+java:S1612'",Replace this lambda with a method reference.(ñ¼ã±8ğíş¶.
+U	java:S106"9Replace this use of System.out or System.err by a logger.( øò°8í‰«¥¶.
+U	java:S1066"9Replace this use of System.out or System.err by a logger.(òá¸ı8ñ·ñ­¶.
 K
 java:S3740P"/Provide the parametrized type for this generic.(“Äğ_8õ²¢Ù·.
-T	java:S106M"9Replace this use of System.out or System.err by a logger.(­¨šW8ˆªª®¶.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(°×ëÃ8šô±¥¶.
+I
+java:S1612",Replace this lambda with a method reference.(Â§Â‚8ıÄ¥¶.
+Z	java:S106F"9Replace this use of System.out or System.err by a logger.(š—“¿ÿÿÿÿÿ8—ğû­¶.
+Z	java:S1061"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8¹¹±­¶.
 H
 java:S1612",Replace this lambda with a method reference.(„µÿC8µ›¤¥¶.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(›¿8öĞŞ¥¶.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(¼²¤™8ÅÁº¥¶.
+Z	java:S1067"9Replace this use of System.out or System.err by a logger.(’òŸ´şÿÿÿÿ8·ŒÇ¶.
+Q
+java:S3740?"/Provide the parametrized type for this generic.(œ¯ ­ûÿÿÿÿ8åÅíô¹.
+L
+java:S3740["/Provide the parametrized type for this generic.(Ã–ã¶8õ²¢Ù·.
+L
+java:S3740a"/Provide the parametrized type for this generic.(Á­«ª8õ²¢Ù·.
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(şÒ†Ç8•ÁÆ¥¶.
 N
-java:S1612/",Replace this lambda with a method reference.(¢ˆ‚Èúÿÿÿÿ8¿•„­¶.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8šô±¥¶.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(éç¬ùÿÿÿÿ8‚Ù¿¬¶.
+java:S1612",Replace this lambda with a method reference.(»â¡°şÿÿÿÿ8¼Û¸¥¶.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼²¤™8ÅÁº¥¶.
+U	java:S106("9Replace this use of System.out or System.err by a logger.(†ª½8©È¯­¶.
+I
+java:S1612"",Replace this lambda with a method reference.(ŠÛ÷ß8úÄ¬¶.
+Q
+java:S3740`"/Provide the parametrized type for this generic.(ş—ÿ½ÿÿÿÿÿ8õ²¢Ù·.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(›¿8öĞŞ¥¶.
+U	java:S106I"9Replace this use of System.out or System.err by a logger.(ô…œ€8—ª®¶.

@@ -1,10 +1,14 @@
 
-Z	java:S1064"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8…ÿô§».
-J	java:S108(")Either remove or fill this block of code.(©¥–Üøÿÿÿÿ8…ÿô§».
 m
-java:S3457&"Q%n should be used in place of \n to produce the platform-specific line separator.(Í–Ê8²¿ö§».
-J	java:S1088")Either remove or fill this block of code.(©¥–Üøÿÿÿÿ8…ÿô§».
-T	java:S106"9Replace this use of System.out or System.err by a logger.(æð²8…ÿô§».
+java:S34575"Q%n should be used in place of \n to produce the platform-specific line separator.(Í–Ê8ù¸­µ¼.
+T	java:S106"9Replace this use of System.out or System.err by a logger.(æð²8…ÿô§».
+B
+java:S3457("%String contains no format specifiers.(ÕŽš˜8Á¨¶µ¼.
+s
+java:S3457)"Q%n should be used in place of \n to produce the platform-specific line separator.(ÀúÕ¿ùÿÿÿÿ8Á¨¶µ¼.
+J	java:S1087")Either remove or fill this block of code.(©¥–Üøÿÿÿÿ8ù¸­µ¼.
+J	java:S108G")Either remove or fill this block of code.(©¥–Üøÿÿÿÿ8…ÿô§».
+Z	java:S106C"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8…ÿô§».
+J	java:S108")Either remove or fill this block of code.(©¥–Üøÿÿÿÿ8…ÿô§».
 J
-java:S1144".Remove this unused private "writeFile" method.(Å£¨8…ÿô§».
-J	java:S108")Either remove or fill this block of code.(©¥–Üøÿÿÿÿ8…ÿô§».
+java:S1144".Remove this unused private "writeFile" method.(Å£¨8…ÿô§».

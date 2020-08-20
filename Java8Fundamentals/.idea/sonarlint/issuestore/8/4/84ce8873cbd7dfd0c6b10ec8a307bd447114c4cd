@@ -1,8 +1,8 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì‡šîüÿÿÿÿ8ØÎ× º.
-H
-java:S1481"+Remove this unused "fields" local variable.(ê·ğ8 Ÿ¡º.
 P
 java:S1172".Remove this unused method parameter "element".(ƒæ“ìùÿÿÿÿ8øƒû º.
 W
 java:S1854":Remove this useless assignment to local variable "fields".(ê·ğ8 Ÿ¡º.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ì‡šîüÿÿÿÿ8ØÎ× º.
+H
+java:S1481"+Remove this unused "fields" local variable.(ê·ğ8 Ÿ¡º.

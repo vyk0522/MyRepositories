@@ -8,13 +8,15 @@ import java.nio.charset.StandardCharsets;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.Formatter;
 
 public class Sample001 {
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IOException{
         Path path1 = Paths.get("src\\com\\onejava\\nio\\files\\read.txt");
         Path path2 = Paths.get("src\\com\\onejava\\nio\\files\\write.txt");
         readFile(path1);
-        writeFile2(path2);
+        writeFileUsingPrintWriter(path2);
+        writeFileUsingFormatter(path2);
         System.out.println("done!!");
     }
 
@@ -29,8 +31,21 @@ public class Sample001 {
 
     /*
     Format using PrintWriter
+    Note: BufferedWriter is not in try with resources. Formatter automatically closes
+    whatever it is wrapping as long as that class implements Closeable interface
      */
-    private static void writeFile2(Path path) {
+    private static void writeFileUsingFormatter(Path path) throws IOException {
+        BufferedWriter writer = Files.newBufferedWriter(path);
+        try(Formatter f = new Formatter(writer)) {
+            f.format("Hello World!!");
+            f.format("\n%d", 22);
+        }
+    }
+
+    /*
+    Format using PrintWriter
+     */
+    private static void writeFileUsingPrintWriter(Path path) {
         try (BufferedWriter writer1 = Files.newBufferedWriter(path);
              BufferedWriter writer2 = new BufferedWriter(writer1);
              PrintWriter printWriter = new PrintWriter(writer2)) {

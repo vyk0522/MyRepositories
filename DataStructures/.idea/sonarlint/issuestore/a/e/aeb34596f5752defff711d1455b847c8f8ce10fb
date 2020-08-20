@@ -1,9 +1,9 @@
 
+Z	java:S106
+"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ8ˆ†¸Õ·.
 {
 java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(ÓÉºíûÿÿÿÿ8‘À¨Õ·.
 A
-java:S1659("Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ8¸³‚Õ·.
-A
 java:S1659("Declare "k" on a separate line.(ãäÚ‘üÿÿÿÿ8¸³‚Õ·.
-Z	java:S106
-"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ8ˆ†¸Õ·.
+A
+java:S1659("Declare "j" on a separate line.(ãäÚ‘üÿÿÿÿ8¸³‚Õ·.

@@ -1,0 +1,22 @@
+
+[
+java:S1854">Remove this useless assignment to local variable "superclass".(ı‡‚ 8ÌƒßÑ».
+D
+java:S1481"'Remove this unused "c3" local variable.(øÁãú8ŞÙ÷Ñ».
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ó²™ğ8¶¼âÑ».
+S
+java:S1854"6Remove this useless assignment to local variable "c2".(”8ÌÂùÑ».
+U	java:S106"9Replace this use of System.out or System.err by a logger.(›â³8µäÑ».
+a
+java:S2133	"ERemove this object instantiation and use "BankAccount.class" instead.(öø½ 8ÇÖéÑ».
+D
+java:S1481"'Remove this unused "c2" local variable.(”8ÌÂùÑ».
+`
+java:S1854">Remove this useless assignment to local variable "interfaces".(ÏÙåúÿÿÿÿ8ÛßÑ».
+L
+java:S1481"/Remove this unused "superclass" local variable.(ı‡‚ 8ÌƒßÑ».
+S
+java:S1854"6Remove this useless assignment to local variable "c3".(øÁãú8ŞÙ÷Ñ».
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÒÖ¥…8•âİÑ».
+Q
+java:S1481"/Remove this unused "interfaces" local variable.(ÏÙåúÿÿÿÿ8ÛßÑ».

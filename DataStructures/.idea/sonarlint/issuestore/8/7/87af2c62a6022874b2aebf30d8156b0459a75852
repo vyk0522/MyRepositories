@@ -1,3 +1,10 @@
 
-U	java:S106"9Replace this use of System.out or System.err by a logger.(×İõ8İ’´²¹.
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Øù‡
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Äş!8ÒŠ÷í½.
+X	java:S125
+"<This block of commented-out lines of code should be removed.(…ËË­8ëä¦ˆ¾.
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(™Øù‡
+U	java:S106"9Replace this use of System.out or System.err by a logger.(×İõ8¤÷ë€¾.
+`
+java:S11440">Remove this unused private "firstMaxEvenLengthString2" method.(àÙóÊıÿÿÿÿ8Ûö£ˆ¾.
+L
+java:S1066'"/Merge this if statement with the enclosing one.(‹¯¨á8ÃÛŸˆ¾.

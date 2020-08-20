@@ -1,0 +1,7 @@
+
+g	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ù•Ëäûÿÿÿÿ8“®Êê».
+K
+java:S3740"/Provide the parametrized type for this generic.(³¯óu8°Âøê».
+O
+java:S1874"3Remove this use of "newInstance"; it is deprecated.(³¯óu8“®Êê».
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(²ğçé

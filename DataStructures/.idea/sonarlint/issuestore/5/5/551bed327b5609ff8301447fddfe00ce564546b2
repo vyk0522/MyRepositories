@@ -1,7 +1,7 @@
 
-}
-java:S1149ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆ¤®8·ñ½Ì.
-g
-java:S2259à"IA "NullPointerException" could be thrown; "currentNode" is nullable here.(Õ½Ö‡8ÉóòÍ.
 M
 java:S3740ì"/Provide the parametrized type for this generic.(ÈÙ“ø8¦ş‹Œ·.
+g
+java:S2259à"IA "NullPointerException" could be thrown; "currentNode" is nullable here.(Õ½Ö‡8ÉóòÍ.
+}
+java:S1149ë"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ˆ¤®8·ñ½Ì.

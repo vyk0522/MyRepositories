@@ -1,7 +1,7 @@
 
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì–õŸùÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(âÂ‰8‚ÜÊ¨».
 U	java:S106"9Replace this use of System.out or System.err by a logger.(‰¦Íµ8Þ×õ¨».
 a
 java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(ë¬Í”8×ƒô¨».
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì–õŸùÿÿÿÿ
 U	java:S106"9Replace this use of System.out or System.err by a logger.(üìã’8‚ÜÊ¨».
-T	java:S106"9Replace this use of System.out or System.err by a logger.(âÂ‰8‚ÜÊ¨».

@@ -1,14 +1,30 @@
 package com.com.org;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 import java.util.function.Function;
 
 import static java.util.stream.Collectors.*;
 
 public class Test {
+
+    public static void main(String[] args) {
+        ArrayList<Double> objects = new ArrayList<>();
+        objects.add(1.0);
+        objects.add(4.0);
+        objects.add(16.0);
+        Spliterator<Double> spliterator = objects.spliterator();
+        while (spliterator.tryAdvance((n) -> System.out.print(" " + n)));
+        System.out.println();
+        spliterator = objects.spliterator();
+
+        ArrayList<Double> gg = new ArrayList<>();
+        while (spliterator.tryAdvance((n) -> gg.add(Math.sqrt(n))));
+        spliterator = gg.spliterator();
+        spliterator.forEachRemaining(n -> System.out.println(" " + n));
+
+
+    }
+
     /*public static void main(String[] args) {
         Map<String, Integer> map = new HashMap<>();
         List<String> names = Arrays.asList("aa", "bb", "aa", "cc", "bb", "aa", "dd", "bb");
