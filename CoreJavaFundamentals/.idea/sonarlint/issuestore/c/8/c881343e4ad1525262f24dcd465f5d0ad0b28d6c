@@ -1,10 +1,10 @@
 
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á˜¨¹ûÿÿÿÿ8¶ÀŒ½.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¸ùˆ8Šô¯½.
+Q
+java:S3740,"/Provide the parametrized type for this generic.(ĞşÀ´ÿÿÿÿÿ8‚Ôñ½.
 Q
 java:S3740"/Provide the parametrized type for this generic.(éĞÄçûÿÿÿÿ8Öé‘½.
 g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ç–¾ƒüÿÿÿÿ
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á˜¨¹ûÿÿÿÿ8¶ÀŒ½.
 z
 java:S1488!"]Immediately return this expression instead of assigning it to the temporary variable "zipFS".(üÊ½µ8æ†½.
-Q
-java:S3740,"/Provide the parametrized type for this generic.(ĞşÀ´ÿÿÿÿÿ8‚Ôñ½.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ğ¸ùˆ8Šô¯½.

@@ -45,3 +45,9 @@ L
 src/com/com/org/Manager.java,8\9\890f43549b6b365ef42be3ba3ac0ea9d5bd037e9
 N
 src/com/onejava/Sample013.java,b\c\bcfbf5d7ba2e4338fcfd91ab11add1c77718a569
+C
+src/com/org/HR.java,4\1\41538cb2c25684f71313a22f80e08c5082c808bf
+S
+#src/com/onejava/maps/Sample001.java,f\7\f7ca5968796e2bbbcbea41fb14dfb541db7b2018
+K
+src/com/com/org/Random.java,d\0\d0092e9ef27dca8a71c7d87c1b6a17b426ab6d14

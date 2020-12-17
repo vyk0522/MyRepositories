@@ -1,26 +1,26 @@
 
-o
-java:S1128"MRemove this unused import 'java.security.cert.CollectionCertStoreParameters'.(°²òñûÿÿÿÿ8Â‚ÑÈ².
-Q
-java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8âÙñî¼.
-T	java:S106"9Replace this use of System.out or System.err by a logger.(êÀË|8‘­ğî¼.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¦õ§8‘­ğî¼.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(ÓàÄ8‘­ğî¼.
-U	java:S106"9Replace this use of System.out or System.err by a logger.(½ó‡Ì8‘­ğî¼.
-V
-java:S1854#"9Remove this useless assignment to local variable "extra".(¼Ï€¥8‘­ğî¼.
-|
-java:S11495"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8‘­ğî¼.
-X	java:S125)"<This block of commented-out lines of code should be removed.(´—áÙ8‘­ğî¼.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‘­ğî¼.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ†‰»ıÿÿÿÿ8‘­ğî¼.
-T
-java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Â‚ÑÈ².
-R
-java:S1481-"0Remove this unused "exraCandles" local variable.(ı³¨üÿÿÿÿ8‘­ğî¼.
-Z
-java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8·˜ÜÈ².
 a
 java:S1854-"?Remove this useless assignment to local variable "exraCandles".(ı³¨üÿÿÿÿ8‘­ğî¼.
+X	java:S125)"<This block of commented-out lines of code should be removed.(´—áÙ8‘­ğî¼.
+Q
+java:S1128	"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8âÙñî¼.
+|
+java:S11495"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(í…Ò‰8‘­ğî¼.
+o
+java:S1128"MRemove this unused import 'java.security.cert.CollectionCertStoreParameters'.(°²òñûÿÿÿÿ8Â‚ÑÈ².
+T	java:S106"9Replace this use of System.out or System.err by a logger.(êÀË|8‘­ğî¼.
 G
 java:S1481#"*Remove this unused "extra" local variable.(¼Ï€¥8‘­ğî¼.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ†‰»ıÿÿÿÿ8‘­ğî¼.
+R
+java:S1481-"0Remove this unused "exraCandles" local variable.(ı³¨üÿÿÿÿ8‘­ğî¼.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8Â‚ÑÈ².
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8·˜ÜÈ².
+U	java:S106"9Replace this use of System.out or System.err by a logger.(½ó‡Ì8‘­ğî¼.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8‘­ğî¼.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ÓàÄ8‘­ğî¼.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ä¦õ§8‘­ğî¼.
+V
+java:S1854#"9Remove this useless assignment to local variable "extra".(¼Ï€¥8‘­ğî¼.

@@ -1,0 +1,20 @@
+
+Y
+java:S1444"7Make this "public static MOVIES_COLLECTION" field final(Ìà”®øÿÿÿÿ8à‹òØ.
+M
+java:S3740Ï"/Provide the parametrized type for this generic.(Ÿ¨¬Î8à‹òØ.
+
+java:S1104"]Make MOVIES_COLLECTION a static final constant or non-public and provide accessors if needed.(Ìà”®øÿÿÿÿ8à‹òØ.
+
+java:S1488["]Immediately return this expression instead of assigning it to the temporary variable "movie".(âåÚİşÿÿÿÿ8à‹òØ.
+{
+java:S1488l"^Immediately return this expression instead of assigning it to the temporary variable "movies".(·Œ‰Ù8à‹òØ.
+~
+java:S3008"\Rename this field "MOVIES_COLLECTION" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ìà”®øÿÿÿÿ8à‹òØ.
+{
+java:S2293+"YReplace the type specification in this constructor call with the diamond operator ("<>").(‰Êµ—øÿÿÿÿ8à‹òØ.
+T
+java:S1135A"2Complete the task associated to this TODO comment.(Íè×Ñûÿÿÿÿ8à‹òØ.
+^	java:S125‘"<This block of commented-out lines of code should be removed.(ÒÌâ–øÿÿÿÿ8à‹òØ.
+U
+java:S1135µ"2Complete the task associated to this TODO comment.(êëÍıúÿÿÿÿ8à‹òØ.

@@ -1,11 +1,11 @@
 
-A
-java:S1659"Declare "k" on a separate line.(ðúéªøÿÿÿÿ8’°»ˆÀ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ8’°»ˆÀ.
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñü¢ãýÿÿÿÿ
 A
 java:S1659"Declare "j" on a separate line.(ðúéªøÿÿÿÿ8¾ÌŽˆÀ.
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ñü¢ãýÿÿÿÿ
+A
+java:S1659"Declare "i" on a separate line.(ðúéªøÿÿÿÿ8˜ß‘ˆÀ.
 Z
 java:S1197"8Move the array designator from the variable to the type.(Ÿ¦ÿÕûÿÿÿÿ8«»ŠˆÀ.
 A
-java:S1659"Declare "i" on a separate line.(ðúéªøÿÿÿÿ8˜ß‘ˆÀ.
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ8’°»ˆÀ.
+java:S1659"Declare "k" on a separate line.(ðúéªøÿÿÿÿ8’°»ˆÀ.

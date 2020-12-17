@@ -1,0 +1,9 @@
+
+J
+java:S1172"(Remove this unused method parameter "n".(ÃÌåœùÿÿÿÿ8è’ö˜â.
+T
+java:S3655 "7Call "Optional#isPresent()" before accessing the value.(ˆáŞå8ß½™â.
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8ìÄÍ™â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(àÛÆ”8¹Ú¾™â.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ8Œò»™â.

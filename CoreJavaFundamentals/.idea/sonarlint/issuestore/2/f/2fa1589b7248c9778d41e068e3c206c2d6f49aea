@@ -1,21 +1,21 @@
 
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³Ñ©êøÿÿÿÿ
+\
+java:S21424"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
 <
 java:S3398"!Move this method into "Consumer".(‡ÑãÍÿÿÿÿÿ
-<
-java:S3398"!Move this method into "Producer".(¹ˆö‡ÿÿÿÿÿ
-g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(³Ñ©êøÿÿÿÿ
-P
-java:S22743":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ
+\
+java:S2142D"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
 P
 java:S2274C":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ
 N	java:S106"9Replace this use of System.out or System.err by a logger.(¬Ãº´
-\
-java:S21424"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
-F
-java:S24469"0"notify" may not wake up the appropriate thread.(ŒâÌ†
 S	java:S106+"9Replace this use of System.out or System.err by a logger.(÷×“ ùÿÿÿÿ
-\
-java:S2142D"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€
 N	java:S106"9Replace this use of System.out or System.err by a logger.(ö¼í
 F
 java:S2446I"0"notify" may not wake up the appropriate thread.(ŒâÌ†
+F
+java:S24469"0"notify" may not wake up the appropriate thread.(ŒâÌ†
+P
+java:S22743":Remove this call to "wait" or move it into a "while" loop.(ŒºÙ
+<
+java:S3398"!Move this method into "Producer".(¹ˆö‡ÿÿÿÿÿ

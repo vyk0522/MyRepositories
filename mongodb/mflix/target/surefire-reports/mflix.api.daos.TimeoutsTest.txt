@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: mflix.api.daos.TimeoutsTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 20.905 s <<< FAILURE! - in mflix.api.daos.TimeoutsTest
+testConfiguredConnectionTimeoutMs(mflix.api.daos.TimeoutsTest)  Time elapsed: 8.157 s  <<< ERROR!
+java.lang.NullPointerException
+	at mflix.api.daos.TimeoutsTest.testConfiguredConnectionTimeoutMs(TimeoutsTest.java:58)
+
+testConfiguredWtimeout(mflix.api.daos.TimeoutsTest)  Time elapsed: 4.082 s  <<< ERROR!
+java.lang.NullPointerException
+	at mflix.api.daos.TimeoutsTest.testConfiguredWtimeout(TimeoutsTest.java:49)
+

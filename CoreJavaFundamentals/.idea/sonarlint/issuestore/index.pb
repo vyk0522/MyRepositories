@@ -73,3 +73,5 @@ d
 ,src/com/onejava/serialization/Sample001.java,c\0\c02c12349c3bc7d0a4512449d42ad47b217ee0de
 V
 &src/com/onejava/nio/Sample006_Zip.java,c\8\c881343e4ad1525262f24dcd465f5d0ad0b28d6c
+W
+'src/com/onejava/generics/Sample003.java,f\1\f11476c8184bfc3e77dcb67dd35622e50e6884eb

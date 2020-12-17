@@ -1,0 +1,33 @@
+
+T
+java:S1135+"2Complete the task associated to this TODO comment.(ÏËÿ‘şÿÿÿÿ8ğüÖòØ.
+O
+java:S1135_"2Complete the task associated to this TODO comment.(ø €ê8ğüÖòØ.
+n
+java:S1192B"LDefine a constant instead of duplicating this literal "lastupdated" 4 times.(“ã‚ÿÿÿÿÿ8ğüÖòØ.
+s
+java:S1128
+"QRemove this unused import 'org.springframework.format.annotation.DateTimeFormat'.(‡ˆôƒøÿÿÿÿ8ğüÖòØ.
+a
+java:S1854j"?Remove this useless assignment to local variable "queryFilter".(‹Ù•¤şÿÿÿÿ8ğüÖòØ.
+f
+java:S2095c"IUse try-with-resources or close this "MongoClient" in a "finally" clause.(Å©ó§8ğüÖòØ.
+[	java:S106‰"9Replace this use of System.out or System.err by a logger.(‰…úùÿÿÿÿ8ğüÖòØ.
+O
+java:S1135g"2Complete the task associated to this TODO comment.(ƒõà8ğüÖòØ.
+V	java:S106"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ğüÖòØ.
+n
+java:S1192/"LDefine a constant instead of duplicating this literal "imdb.rating" 4 times.(°ÍÜúÿÿÿÿ8ğüÖòØ.
+U
+java:S1135†"2Complete the task associated to this TODO comment.(ïÏÈşÿÿÿÿ8ğüÖòØ.
+R
+java:S1481j"0Remove this unused "queryFilter" local variable.(‹Ù•¤şÿÿÿÿ8ğüÖòØ.
+U	java:S106L"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ğüÖòØ.
+T
+java:S1135z"2Complete the task associated to this TODO comment.(Ì½ïùÿÿÿÿ8ğüÖòØ.
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(ÆÀûı8ğüÖòØ.
+v
+java:S2293-"YReplace the type specification in this constructor call with the diamond operator ("<>").(¡İ«¤8ğüÖòØ.
+U	java:S106\"9Replace this use of System.out or System.err by a logger.(ÆïéÙ8ğüÖòØ.
+\
+java:S1128"?Remove this unused import 'java.time.format.DateTimeFormatter'.(‰÷÷ª8ğüÖòØ.

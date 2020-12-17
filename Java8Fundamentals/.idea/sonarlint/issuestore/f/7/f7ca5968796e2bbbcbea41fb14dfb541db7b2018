@@ -1,0 +1,15 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Å­Ëİúÿÿÿÿ8øù¥Äâ.
+X
+java:S1854";Remove this useless assignment to local variable "strings".(ï†½ô8òä¡Ãâ.
+\
+java:S1854":Remove this useless assignment to local variable "values".(áèºÍúÿÿÿÿ8‹É¢Ãâ.
+N
+java:S1612",Replace this lambda with a method reference.(‹§¾×úÿÿÿÿ8 —€Åâ.
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(–Ø›ô8È¾¥Äâ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8 —€Åâ.
+I
+java:S1481",Remove this unused "strings" local variable.(ï†½ô8òä¡Ãâ.
+M
+java:S1481"+Remove this unused "values" local variable.(áèºÍúÿÿÿÿ8‹É¢Ãâ.

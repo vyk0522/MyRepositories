@@ -1,0 +1,11 @@
+
+Q
+java:S1128"4Remove this unused import 'java.util.stream.Stream'.(ó÷”8üøã.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8òÁ÷ã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(›µ²Øøÿÿÿÿ8¶Ïãã.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(±­ü¹üÿÿÿÿ8œ´Öã.
+W
+java:S1854"5Remove this useless assignment to local variable "s".(üêéøÿÿÿÿ8ãû‚‘æ.
+H
+java:S1481"&Remove this unused "s" local variable.(üêéøÿÿÿÿ8ãû‚‘æ.

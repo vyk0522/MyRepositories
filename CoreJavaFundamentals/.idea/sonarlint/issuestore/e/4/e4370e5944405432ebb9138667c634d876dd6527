@@ -1,14 +1,14 @@
 
-f
-java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(í”­¶şÿÿÿÿ8—‚´¨».
-a
-java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Éàì8—‚´¨».
-N
-java:S1612",Replace this lambda with a method reference.(Ä‡Íªøÿÿÿÿ8—‚´¨».
-f
-java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ä‡Íªøÿÿÿÿ8—‚´¨».
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ°Õ¹şÿÿÿÿ8—‚´¨».
 N
 java:S1612",Replace this lambda with a method reference.(í”­¶şÿÿÿÿ8—‚´¨».
-T	java:S106"9Replace this use of System.out or System.err by a logger.(õğâj8—‚´¨».
 Z	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ·¬…üÿÿÿÿ8—‚´¨».
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(í”­¶şÿÿÿÿ8—‚´¨».
+f
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Ä‡Íªøÿÿÿÿ8—‚´¨».
+N
+java:S1612",Replace this lambda with a method reference.(Ä‡Íªøÿÿÿÿ8—‚´¨».
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Æ°Õ¹şÿÿÿÿ8—‚´¨».
+a
+java:S2095"DUse try-with-resources or close this "Stream" in a "finally" clause.(Éàì8—‚´¨».
+T	java:S106"9Replace this use of System.out or System.err by a logger.(õğâj8—‚´¨».

@@ -1,0 +1,13 @@
+
+W
+java:S1854
+"5Remove this useless assignment to local variable "i".(ÚÈŸ‡ÿÿÿÿÿ8‹ºØœâ.
+R
+java:S1143"5Remove this return statement from this finally block.(›…Ú8ÙÑœâ.
+H
+java:S1481
+"&Remove this unused "i" local variable.(ÚÈŸ‡ÿÿÿÿÿ8‹ºØœâ.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(Á´´»ûÿÿÿÿ8Ëş×œâ.
+e
+java:S3518
+"CMake sure this expression can't be zero before doing this division.(ÚÈŸ‡ÿÿÿÿÿ8‹ºØœâ.
